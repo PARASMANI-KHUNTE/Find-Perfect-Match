@@ -11,7 +11,7 @@ Welcome to the Puzzle Game! This game challenges you to find the matching image 
 --------------------------------------------------
 
 1. Clone the repository to your local machine:
-   git clone https://github.com/PARASMANI-KHUNTE/puzzle-game.git
+   git clone https://github.com/PARASMANI-KHUNTE/Find-Perfect-Match.git
 
 2. Navigate to the project directory:
    cd puzzle-game
